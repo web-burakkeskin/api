@@ -8,7 +8,7 @@
     "yetki": "admin"
     },
 	{ 
-    "id": 1, 
+    "id": 2, 
     "email": "enes",
     "password": "123",
     "fullname": "ENES",
