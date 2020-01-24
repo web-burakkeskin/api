@@ -1,0 +1,17 @@
+{
+  "uyeler": 
+  	[{ 
+    "id": 1, 
+    "email": "burak",
+    "password": "123",
+    "fullname": "BURAK",
+    "yetki": "admin"
+    },
+	{ 
+    "id": 1, 
+    "email": "enes",
+    "password": "123",
+    "fullname": "ENES",
+    "yetki": "normal"
+    }]
+}
